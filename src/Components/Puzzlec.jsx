@@ -147,9 +147,7 @@ export default class Puzzlec extends Component {
       numArr[7] === "8"
     ) {
       alert("You win");
-    } else {
-      console.log("Game is still pending");
-    }
+    } 
   }
 
   render() {
